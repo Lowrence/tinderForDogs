@@ -1,2 +1,1 @@
-# tinderForDogs
-tinderForDogs responsive
+TinDog Starting Files
